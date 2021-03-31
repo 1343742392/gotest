@@ -1,3 +1,3 @@
 package gotest
 
-var Name = "tool1"
+var Name = "tool2"
