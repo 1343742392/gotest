@@ -1,3 +1,3 @@
-package tool
+package gotest
 
 var Name = "tool";

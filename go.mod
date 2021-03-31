@@ -1,3 +1,3 @@
-module tool
+module gotest
 
 go 1.16
